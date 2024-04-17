@@ -140,3 +140,4 @@ D:\WellGui\DS\RpgApi\bin\Debug\net8.0\publish\appsettings.Development.json
 D:\WellGui\DS\RpgApi\bin\Debug\net8.0\publish\appsettings.json
 D:\WellGui\DS\RpgApi\bin\Debug\net8.0\publish\RpgApi.deps.json
 D:\WellGui\DS\RpgApi\bin\Debug\net8.0\publish\RpgApi.runtimeconfig.json
+D:\WellGui\DS\RpgApi\obj\Debug\net8.0\RpgApi.sourcelink.json
