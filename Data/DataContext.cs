@@ -98,6 +98,8 @@ namespace RpgApi.Data
             modelBuilder.Entity<PersonagemHabilidade>()
                 .HasKey(ph => new {ph.PersonagemId, ph.HabilidadeId});
 
+
+            // Criação das habilidades
             modelBuilder.Entity<Habilidade>().HasData
             (
                 new Habilidade(){Id = 1, Nome ="Adormecer", Dano= 39},
@@ -106,6 +108,8 @@ namespace RpgApi.Data
 
 
             );
+
+            //Criação dos dados da tabela Associativa
 
             modelBuilder.Entity<PersonagemHabilidade>().HasData
             (
